@@ -91,7 +91,7 @@ iconList = [
     # (iOS6およびiOS7 Retina app store用/拡張子なしでOK)	1024×1024
     [(1024, 1024), "iTunesArtwork@2x"]
 
-];
+]
 
 # エラー時に出力するusage文字列　
 usage = "usage : python iosiconcreator.py xxx.png(1024x1024)"
